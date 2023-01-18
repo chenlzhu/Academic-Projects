@@ -1,4 +1,4 @@
-# in-school-projects
+# Academic-Projects
 
 <h1>Hi! I'm Chenlin👏 Welcome to In-Class Projects! </h1>
 
